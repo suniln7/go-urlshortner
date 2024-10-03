@@ -23,7 +23,7 @@ The application uses two main handlers to manage URL redirections:
 
 ### 1. YAML Path Configuration
 
-You can specify a YAML file for path redirection via a command-line flag `-yaml`. If no file is provided, the app defaults to a `paths.yaml` file in the current directory.
+You can specify a YAML file for path redirection via a command-line flag `-yaml`. If no file is provided, the app defaults to a `default.yaml` file in the current directory.
 
 Example:
 
